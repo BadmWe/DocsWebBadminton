@@ -1,50 +1,23 @@
-# TradeCoin Project Documentation
+# Web Badminton DApp Documentation
 
 ## Table of Contents
 
-1. Introduction
+1. Overview
 
-   - Project description
-   - Purpose and Goals
-   - Project Architecture
+2. What it Does
 
-2. Architecture
+   - Equipment Ledgering
+   - Cost Savings
+   - Reliability
+   - Minimal Additional Costs
+   - Decentralized Newsletter Subscription
 
-   - Smart Contracts
-   - User Interface (Nextjs)
+3. How it Works
 
-3. Functionality
+4. Technologies Used
 
-   - Token Exchange
-   - Security Measures
-   - Liquidity Provision
+5. Getting Started
 
-4. Development Challenges
+6. Important Links
 
-   - Ensuring Security and Reliability
-   - Smart Contract Development
-   - User Interface Design
-
-5. Accomplishments
-
-   - Secure and User-Friendly Protocol
-   - Liquidity Support for Projects
-
-6. Technologies Used
-
-   - JavaScript
-   - Nextjs
-   - React
-   - Solidity
-   - Vercel
-   - Mina
-
-7. Important Links
-
-   - Website
-   - Social Media Links (Twitter, Instagram)
-   - Contact Information (Email)
-
-8. Application instruction
-
-9. Milestones
+7. Learn More
